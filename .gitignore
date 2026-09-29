@@ -3,3 +3,4 @@ mnt/
 OVMF_CODE.fd
 OVMF_VARS.fd
 edk2/
+mikanos/
